@@ -34,4 +34,18 @@ public class Animal {
     }
 
     public void respirar() {}
+
+    public String getDieta() {
+        return dieta;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+    
+    public void comer() {}
 }
