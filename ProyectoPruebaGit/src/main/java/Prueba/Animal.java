@@ -5,10 +5,12 @@ package Prueba;
  * @author PC-17
  */
 public class Animal {
+    // Atributos
     protected String dieta;
     protected String nombre;
     protected int edad;  
 
+    // Constructores
     public Animal() {
         this.dieta = "";
         this.nombre = "";
@@ -21,6 +23,7 @@ public class Animal {
         this.edad = edad;
     }
 
+    // Setters
     public void setDieta(String dieta) {
         this.dieta = dieta;
     }
@@ -33,8 +36,10 @@ public class Animal {
         this.edad = edad;
     }
 
+    // Método que le da la posibilidad de respirar al animal
     public void respirar() {}
 
+    // Getters
     public String getDieta() {
         return dieta;
     }
@@ -47,5 +52,6 @@ public class Animal {
         return edad;
     }
     
+    // Método para que el animal se alimente
     public void comer() {}
 }
