@@ -123,4 +123,6 @@ public class Animal {
     
     // ==== NUEVA FUNCIONALIDAD ====
     public void beber() {}
+    // ---Otro metodo---
+    public void caminar() {}
 }
