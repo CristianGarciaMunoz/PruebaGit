@@ -2,7 +2,7 @@ package Prueba;
 
 /**
  *
- * @author PC-17
+ * @author Cristian
  */
 public class Animal {
     // Atributos
