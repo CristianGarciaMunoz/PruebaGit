@@ -6,3 +6,4 @@ He creado los métodos get y un método comer. Commit 4 listo.
 He añadido comentarios al código. Commit 5 listo.
 He añadido JavaDoc y más comentarios al código. Commit 6 listo.
 Eric José / Cristian. Commit 7 listo.
+Hola
