@@ -119,4 +119,7 @@ public class Animal {
      * Metodo para comer, que no hace nada
      */
     public void comer() {}
+    
+    // ---Otro metodo---
+    public void caminar() {}
 }
